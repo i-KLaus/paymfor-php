@@ -1,0 +1,15 @@
+{
+    "name": "payzfbwx/payzfbwxx",
+    "description": "支付宝微信支付整合",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pay\\": "src/Pay"
+        }
+    }
+}
